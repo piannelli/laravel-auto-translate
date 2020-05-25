@@ -1,11 +1,11 @@
 {
-    "name": "ben182/laravel-auto-translate",
+    "name": "piannelli/laravel-auto-translate",
     "description": "Automatically translate your language files using Google Translate",
     "keywords": [
-        "ben182",
+        "piannelli",
         "laravel-auto-translate"
     ],
-    "homepage": "https://github.com/ben182/laravel-auto-translate",
+    "homepage": "https://github.com/piannelli/laravel-auto-translate",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.2",
         "google/cloud": "^0.105.0",
-        "illuminate/support": "5.6.* || 5.7.* || 5.8.*",
+        "illuminate/support": "5.6.* || 5.7.* || 5.8.* || 6.*",
         "scn/deepl-api-connector": "^1.3",
         "stichoza/google-translate-php": "^4.0",
         "themsaid/laravel-langman": "^1.3"
